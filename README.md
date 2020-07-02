@@ -7,6 +7,7 @@ Please, install the following packages
 - torchnet
 - torchvision-0.2.0
 - tqdm
+Please unzip the files data.zip and checkpoint.zip.
 
 ### Download pretrain models
 checkpoint/coco ([GoogleDrive](https://drive.google.com/open?id=1ivLi1Rc-dCUmN1ProcMk76zxF1DSvlIk))
