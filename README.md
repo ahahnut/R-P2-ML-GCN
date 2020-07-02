@@ -7,6 +7,7 @@ Please, install the following packages
 - torchnet
 - torchvision-0.2.0
 - tqdm
+
 Please unzip the files data.zip and checkpoint.zip.
 
 ### Download pretrain models
