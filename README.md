@@ -29,7 +29,7 @@ python3 demo_coco_gcn.py data/coco --image-size 448 --batch-size 8 -e --resume c
 
 ### Training Framework
 The framework follows ML-GCN [Multi-Label Image Recognition with Graph Convolutional Networks](https://arxiv.org/abs/1904.03582), CVPR 2019.
-
+https://github.com/ahahnut/-R-P2-ML-GCN/blob/master/Framework.png
 
 ## Reference
 This project is based on https://github.com/Megvii-Nanjing/ML-GCN
