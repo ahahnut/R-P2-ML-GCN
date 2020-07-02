@@ -34,12 +34,12 @@ python3 RP2_demo_coco_gcn.py data/coco --image-size 448 --batch-size 8 --epochs 
 
 ### Test Voc2007
 ```sh
-python3 demo_voc2007_gcn.py data/voc --image-size 448 --batch-size 16 -e --resume checkpoint/voc/voc_checkpoint.pth.tar
+python3 RP2_demo_voc2007_gcn.py data/voc --image-size 448 --batch-size 16 -e --resume checkpoint/voc/voc_checkpoint.pth.tar
 ```
 
 ### Test MS-COCO
 ```sh
-python3 demo_coco_gcn.py data/coco --image-size 448 --batch-size 8 -e --resume checkpoint/coco/coco_checkpoint.pth.tar
+python3 RP2_demo_coco_gcn.py data/coco --image-size 448 --batch-size 8 -e --resume checkpoint/coco/coco_checkpoint.pth.tar
 ```
 
 ### Training Framework
